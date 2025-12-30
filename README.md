@@ -1,7 +1,7 @@
 A fully structured static hotel booking website built using "HTML5" and "CSS3", designed to demonstrate front-end development skills and best practices in web design.
 
 Features
-- Multi-page website: Home, Rooms, Booking, Contact
+- Multi-page website: Home,About,Services,News and Contact
 - Responsive navigation and user-friendly interface
 - Booking form with clean layout and structured content
 - Organized folder structure for HTML, CSS, and images for maintainability
